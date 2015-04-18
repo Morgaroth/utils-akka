@@ -1,3 +1,5 @@
+[![Codacy Badge](https://www.codacy.com/project/badge/690b862f8bf54a399e6c80c859da6394)](https://www.codacy.com/app/mateuszjaje/utils-akka)
+
 # Sbt dependency
 
 ```scala
